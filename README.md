@@ -1,6 +1,5 @@
 # APS3 - EXER 1
 
-
 Este projeto consiste em um sistema de monitoramento de criptomoedas utilizando Node.js, Express, Sequelize, Redis e MariaDB. O sistema permite buscar cotações de criptomoedas e armazenar os dados em um banco de dados MariaDB e em um cache Redis.
 
 ## Estrutura do Projeto
